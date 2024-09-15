@@ -1,0 +1,5 @@
+train: C:/project/yolov8/data/train/images
+val: C:/project/yolov8/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
